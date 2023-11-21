@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\bin\Debug\classsinav-ornek.exe.config
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\bin\Debug\classsinav-ornek.exe
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\bin\Debug\classsinav-ornek.pdb
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav-ornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav-ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav_ornek.Form1.resources
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav_ornek.Properties.Resources.resources
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav-ornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav-ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav-ornek.exe
+C:\Users\User\source\repos\classsinav-ornek\classsinav-ornek\obj\Debug\classsinav-ornek.pdb
